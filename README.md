@@ -1,6 +1,6 @@
 <div style="text-align:center">
   <img src="./header.png" />
-  <span>## Software Engineer. Cloud Practitioner. Technical Consultant.</span>
+  <div>## Software Engineer. Cloud Practitioner. Technical Consultant.</div>
 </div>
 
 -------------------------------------------------------------
