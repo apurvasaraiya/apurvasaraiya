@@ -1,5 +1,8 @@
-![Header](./header.png)
-## Software Engineer. Cloud Practitioner. Technical Consultant.
+<div style="text-align:center">
+  <img src="./header.png" />
+  <span>## Software Engineer. Cloud Practitioner. Technical Consultant.</span>
+</div>
+
 -------------------------------------------------------------
 
 As a Software Engineer, I specialize in designing and building software solutions from front-end to back-end. With a focus on delivering high-quality code, I am experienced in collaborating with cross-functional teams to understand project requirements and implement effective solutions. I like to stay up-to-date with the latest technologies and best practices, and I am always eager to tackle new challenges and take on innovative projects.
