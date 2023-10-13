@@ -6,9 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 As a Software Developer, I specialize in designing and building software solutions from front-end to back-end. With a focus on delivering high-quality code, I am experienced in collaborating with cross-functional teams to understand project requirements and implement effective solutions. I like to stay up-to-date with the latest technologies and best practices, and I am always eager to tackle new challenges and take on innovative projects.
 
-* 🌍  I'm based in India
-* 🧠  I'm learning AWS Cloud
-* 🤝  I'm open to collaborating on new and interesting projects.
+* 🌍  Based in India
+* 🧠  Learning AWS Cloud
+* 🤝  Open to collaborating on new and interesting projects.
 
 ### Skills
 
