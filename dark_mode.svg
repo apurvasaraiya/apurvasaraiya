@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Monaco, ui-monospace, monospace" width="1180px" height="554px" font-size="15px">
+<style>
+.key { fill: #ffa657; }
+.value { fill: #a5d6ff; }
+.cc { fill: #8b949e; }
+text, tspan { white-space: pre; }
+</style>
+<rect width="100%" height="100%" fill="#161b22" rx="15"/>
+<text x="18" y="24" fill="#c9d1d9">
+<tspan x="18" y="24">mU0YZqnftqr_)1[l.&gt;1;_v1]f\n|ruU] xUQww</tspan>
+<tspan x="18" y="42">QU-?jOjr|&quot;}c[!^[8$$$t !1&gt;!)n/-UpC0rcUO</tspan>
+<tspan x="18" y="60">txzr}Il((!?}-l|$Q0Ya$z.?|}!(t-&lt;rn/ttcC</tspan>
+<tspan x="18" y="78">;]|&lt;vff}[|f\&gt;&lt;$$   _$$&lt; t/[1r{||\t[t(f</tspan>
+<tspan x="18" y="96">Mq]}_j][{}--.Y$r zc [$L &quot;I[-{[))|&lt;]]n;</tspan>
+<tspan x="18" y="114">&lt;&lt;}{]]1t])&lt;&#x27;;@$Q Co )$$! &gt;}~{)i)&lt;[Bk|J</tspan>
+<tspan x="18" y="132">&lt;l)j[]--&lt;;; l$$$$$$$$$$)  ++~}l(ft}&lt;1+</tspan>
+<tspan x="18" y="150">((]1j]}i^    $$$$B8$$$$)     !i}t]?!ja</tspan>
+<tspan x="18" y="168">\[&lt;{}]?&#x27;    }aOk$$$$%XMX     l~+}j//1}</tspan>
+<tspan x="18" y="186">)}i[`&gt;l. ;\{t%wa0.`f%X@q]1-  .I!:f{(&lt;1</tspan>
+<tspan x="18" y="204">1//j]-; I\t(_bmO&amp;OUMMQ$|+j(\  !&gt;![-/;1</tspan>
+<tspan x="18" y="222">(}_&gt;&#x27;   ^cqCjYpkOzJ0dpbfvQw?   &#x27;l&quot;~&lt;|]</tspan>
+<tspan x="18" y="240">&lt;?~I`;  c{&amp;$80%kOOCpaWMh$$Zt}  . ~&lt;)){</tspan>
+<tspan x="18" y="258">1{^    lotw$cxvr&quot;]/[)Ycuw$xUq    &#x27;.`lp</tspan>
+<tspan x="18" y="276">l:     Qpw$\             $*Zpi     ^. </tspan>
+<tspan x="18" y="294">! 1w^ )$h$$w            ~$$W*$  IZ]  a</tspan>
+<tspan x="18" y="312"> rdQ/ X !a$o`[~&lt;&#x27;   _~]+{$$m lf UC*] z</tspan>
+<tspan x="18" y="330"> :Cddc*cvB$$^??-?&lt;l??-]Iv$$ofQaYqaX   </tspan>
+<tspan x="18" y="348">    $oxQwLa$mqmwwwpZmpbw%$pqpUx$%     </tspan>
+<tspan x="18" y="366">  Cu$x{}_-}xo$$$$$$$$$$W0r)]?[_L$ f   </tspan>
+<tspan x="18" y="384">dm#$$$8abLUYcYUn1$$$$bCQQQUXO*$$$$hMr </tspan>
+<tspan x="18" y="402"> zQn$$$$$$$@%$$W$om0\]}}[c8$$$k$oud;  </tspan>
+<tspan x="18" y="420">  xba$hw[$$$Lx$$$rnc|]f)r(Z$%f&lt;$pb    </tspan>
+<tspan x="18" y="438">   1$$$#1r%b&lt;trb\11x&amp;pux$@Qa&amp;Cb$#&#x27;   &quot;</tspan>
+<tspan x="18" y="456">&#x27;    (B$8$$$hqa*OUcmhopO$$o$$Zn-   `&lt;^</tspan>
+<tspan x="18" y="474">!+&gt;I f_  {a$$M$$$$$$$$W$$k{Xlv   :;&gt;l&lt;</tspan>
+</text>
+<text x="388" y="24" fill="#c9d1d9">
+<tspan x="388" y="24" class="value">apurvasaraiya</tspan><tspan class="cc">  ────────────────────────────────────────</tspan>
+<tspan x="388" y="42"> </tspan>
+<tspan x="388" y="60" class="key">OS</tspan><tspan>:</tspan><tspan class="cc"> ..............</tspan><tspan class="value" x="536">Omarchy (Arch Linux)</tspan>
+<tspan x="388" y="78" class="key">Host</tspan><tspan>:</tspan><tspan class="cc"> ............</tspan><tspan class="value" x="536">Bengaluru, India</tspan>
+<tspan x="388" y="96" class="key">Role</tspan><tspan>:</tspan><tspan class="cc"> ............</tspan><tspan class="value" x="536">Software Engineer</tspan>
+<tspan x="388" y="114" class="key">Day job</tspan><tspan>:</tspan><tspan class="cc"> .........</tspan><tspan class="value" x="536">Cloud Foundry &amp; BOSH</tspan>
+<tspan x="388" y="132" class="key">Org</tspan><tspan>:</tspan><tspan class="cc"> .............</tspan><tspan class="value" x="536">VMware by Broadcom (MTS)</tspan>
+<tspan x="388" y="150" class="key">Now</tspan><tspan>:</tspan><tspan class="cc"> .............</tspan><tspan class="value" x="536">something of my own · soon</tspan>
+<tspan x="388" y="168"> </tspan>
+<tspan x="388" y="186" class="key">Languages</tspan><tspan>:</tspan><tspan class="cc"> .......</tspan><tspan class="value" x="536">Go · Python · Bash</tspan>
+<tspan x="388" y="204" class="key">Infra</tspan><tspan>:</tspan><tspan class="cc"> ...........</tspan><tspan class="value" x="536">Cloud Foundry · BOSH · Kubernetes · Docker</tspan>
+<tspan x="388" y="222" class="key">Data</tspan><tspan>:</tspan><tspan class="cc"> ............</tspan><tspan class="value" x="536">PostgreSQL · Redis · Kafka · RabbitMQ</tspan>
+<tspan x="388" y="240" class="key">Cloud</tspan><tspan>:</tspan><tspan class="cc"> ...........</tspan><tspan class="value" x="536">GCP · AWS · Concourse · Jenkins</tspan>
+<tspan x="388" y="258" class="key">Desktop</tspan><tspan>:</tspan><tspan class="cc"> .........</tspan><tspan class="value" x="536">Omarchy · Hyprland</tspan>
+<tspan x="388" y="276" class="key">Harness</tspan><tspan>:</tspan><tspan class="cc"> .........</tspan><tspan class="value" x="536">T3 Code · Cursor · Claude Code</tspan>
+<tspan class="value" x="536" y="294">Codex · Gemini · Grok · Pi</tspan>
+<tspan x="388" y="312" class="key">Dev</tspan><tspan>:</tspan><tspan class="cc"> .............</tspan><tspan class="value" x="536">bun · Neovim</tspan>
+<tspan x="388" y="330" class="key">Work</tspan><tspan>:</tspan><tspan class="cc"> ............</tspan><tspan class="value" x="536">CopyIT · shortly</tspan>
+<tspan x="388" y="348"> </tspan>
+<tspan x="388" y="366">- Contact</tspan><tspan class="cc">  ────────────────────────────</tspan>
+<tspan x="388" y="384" class="key">GitHub</tspan><tspan>:</tspan><tspan class="cc"> ..........</tspan><tspan class="value" x="536">apurvasaraiya</tspan>
+<tspan x="388" y="402" class="key">LinkedIn</tspan><tspan>:</tspan><tspan class="cc"> ........</tspan><tspan class="value" x="536">apurva-saraiya</tspan>
+<tspan x="388" y="420" class="key">X</tspan><tspan>:</tspan><tspan class="cc"> ...............</tspan><tspan class="value" x="536">a____a07</tspan>
+<tspan x="388" y="438" class="key">Site</tspan><tspan>:</tspan><tspan class="cc"> ............</tspan><tspan class="value" x="536">apurvasaraiya.github.io</tspan>
+<tspan x="388" y="456"> </tspan>
+<tspan x="388" y="474">- GitHub Stats</tspan><tspan class="cc">  ────────────────────────────</tspan>
+<tspan x="388" y="492"><tspan class="key">Repos</tspan><tspan>:</tspan><tspan class="cc"> .... </tspan><tspan class="value">6</tspan><tspan>    </tspan><tspan class="key">Stars</tspan><tspan>:</tspan><tspan class="cc"> .... </tspan><tspan class="value">2</tspan></tspan>
+<tspan x="388" y="510"><tspan class="key">Contributions</tspan><tspan>:</tspan><tspan class="cc"> .... </tspan><tspan class="value">241</tspan><tspan>    </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> .... </tspan><tspan class="value">3</tspan></tspan>
+</text>
+</svg>
