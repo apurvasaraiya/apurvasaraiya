@@ -1277,33 +1277,33 @@ text, tspan { white-space: pre; }
 <rect x="624" y="512" width="16" height="16" fill="#00a7f4"/>
 <rect x="640" y="512" width="16" height="16" fill="#00a1f5"/>
 <text x="684" y="28" fill="#1f2328">
-<tspan x="684" y="28" class="value">apurvasaraiya</tspan><tspan class="cc">  ───────────────────────────────────────</tspan>
+<tspan x="684" y="28" class="value">apurvasaraiya</tspan>
 <tspan x="684" y="46"> </tspan>
-<tspan x="684" y="64" class="key">OS</tspan><tspan>:</tspan><tspan class="cc"> ............</tspan><tspan class="value" x="832">Omarchy (Arch Linux)</tspan>
-<tspan x="684" y="82" class="key">Host</tspan><tspan>:</tspan><tspan class="cc"> ..........</tspan><tspan class="value" x="832">Bengaluru, India</tspan>
-<tspan x="684" y="100" class="key">Role</tspan><tspan>:</tspan><tspan class="cc"> ..........</tspan><tspan class="value" x="832">Software Engineer</tspan>
-<tspan x="684" y="118" class="key">Day job</tspan><tspan>:</tspan><tspan class="cc"> .......</tspan><tspan class="value" x="832">Cloud Foundry &amp; BOSH</tspan>
-<tspan x="684" y="136" class="key">Org</tspan><tspan>:</tspan><tspan class="cc"> ...........</tspan><tspan class="value" x="832">VMware by Broadcom (MTS)</tspan>
-<tspan x="684" y="154" class="key">Now</tspan><tspan>:</tspan><tspan class="cc"> ...........</tspan><tspan class="value" x="832">something of my own · soon</tspan>
+<tspan class="key" x="684" y="64">OS</tspan><tspan y="64">:</tspan><tspan class="cc" x="720.0" y="64">............</tspan><tspan class="value" x="860" y="64">Omarchy (Arch Linux)</tspan>
+<tspan class="key" x="684" y="82">Host</tspan><tspan y="82">:</tspan><tspan class="cc" x="740.0" y="82">..........</tspan><tspan class="value" x="860" y="82">Bengaluru, India</tspan>
+<tspan class="key" x="684" y="100">Role</tspan><tspan y="100">:</tspan><tspan class="cc" x="740.0" y="100">..........</tspan><tspan class="value" x="860" y="100">Software Engineer</tspan>
+<tspan class="key" x="684" y="118">Day job</tspan><tspan y="118">:</tspan><tspan class="cc" x="770.0" y="118">.......</tspan><tspan class="value" x="860" y="118">Cloud Foundry &amp; BOSH</tspan>
+<tspan class="key" x="684" y="136">Org</tspan><tspan y="136">:</tspan><tspan class="cc" x="730.0" y="136">...........</tspan><tspan class="value" x="860" y="136">VMware by Broadcom (MTS)</tspan>
+<tspan class="key" x="684" y="154">Now</tspan><tspan y="154">:</tspan><tspan class="cc" x="730.0" y="154">...........</tspan><tspan class="value" x="860" y="154">something of my own · soon</tspan>
 <tspan x="684" y="172"> </tspan>
-<tspan x="684" y="190" class="key">Languages</tspan><tspan>:</tspan><tspan class="cc"> .....</tspan><tspan class="value" x="832">Go · Python · Bash</tspan>
-<tspan x="684" y="208" class="key">Infra</tspan><tspan>:</tspan><tspan class="cc"> .........</tspan><tspan class="value" x="832">Cloud Foundry · BOSH · Kubernetes · Docker</tspan>
-<tspan x="684" y="226" class="key">Data</tspan><tspan>:</tspan><tspan class="cc"> ..........</tspan><tspan class="value" x="832">PostgreSQL · Redis · Kafka · RabbitMQ</tspan>
-<tspan x="684" y="244" class="key">Cloud</tspan><tspan>:</tspan><tspan class="cc"> .........</tspan><tspan class="value" x="832">GCP · AWS · Concourse · Jenkins</tspan>
-<tspan x="684" y="262" class="key">Desktop</tspan><tspan>:</tspan><tspan class="cc"> .......</tspan><tspan class="value" x="832">Omarchy · Hyprland</tspan>
-<tspan x="684" y="280" class="key">Harness</tspan><tspan>:</tspan><tspan class="cc"> .......</tspan><tspan class="value" x="832">T3 Code · Cursor · Claude Code</tspan>
-<tspan class="value" x="832" y="298">Codex · Gemini · Grok · Pi</tspan>
-<tspan x="684" y="316" class="key">Dev</tspan><tspan>:</tspan><tspan class="cc"> ...........</tspan><tspan class="value" x="832">bun · Neovim</tspan>
-<tspan x="684" y="334" class="key">Work</tspan><tspan>:</tspan><tspan class="cc"> ..........</tspan><tspan class="value" x="832">CopyIT · shortly</tspan>
+<tspan class="key" x="684" y="190">Languages</tspan><tspan y="190">:</tspan><tspan class="cc" x="790.0" y="190">.....</tspan><tspan class="value" x="860" y="190">Go · Python · Bash</tspan>
+<tspan class="key" x="684" y="208">Infra</tspan><tspan y="208">:</tspan><tspan class="cc" x="750.0" y="208">.........</tspan><tspan class="value" x="860" y="208">Cloud Foundry · BOSH · Kubernetes · Docker</tspan>
+<tspan class="key" x="684" y="226">Data</tspan><tspan y="226">:</tspan><tspan class="cc" x="740.0" y="226">..........</tspan><tspan class="value" x="860" y="226">PostgreSQL · Redis · Kafka · RabbitMQ</tspan>
+<tspan class="key" x="684" y="244">Cloud</tspan><tspan y="244">:</tspan><tspan class="cc" x="750.0" y="244">.........</tspan><tspan class="value" x="860" y="244">GCP · AWS · Concourse · Jenkins</tspan>
+<tspan class="key" x="684" y="262">Desktop</tspan><tspan y="262">:</tspan><tspan class="cc" x="770.0" y="262">.......</tspan><tspan class="value" x="860" y="262">Omarchy · Hyprland</tspan>
+<tspan class="key" x="684" y="280">Harness</tspan><tspan y="280">:</tspan><tspan class="cc" x="770.0" y="280">.......</tspan><tspan class="value" x="860" y="280">T3 Code · Cursor · Claude Code</tspan>
+<tspan class="value" x="860" y="298">Codex · Gemini · Grok · Pi</tspan>
+<tspan class="key" x="684" y="316">Dev</tspan><tspan y="316">:</tspan><tspan class="cc" x="730.0" y="316">...........</tspan><tspan class="value" x="860" y="316">bun · Neovim</tspan>
+<tspan class="key" x="684" y="334">Work</tspan><tspan y="334">:</tspan><tspan class="cc" x="740.0" y="334">..........</tspan><tspan class="value" x="860" y="334">CopyIT · shortly</tspan>
 <tspan x="684" y="352"> </tspan>
-<tspan x="684" y="370">- Contact</tspan><tspan class="cc">  ──────────────────────────</tspan>
-<tspan x="684" y="388" class="key">GitHub</tspan><tspan>:</tspan><tspan class="cc"> ........</tspan><tspan class="value" x="832">apurvasaraiya</tspan>
-<tspan x="684" y="406" class="key">LinkedIn</tspan><tspan>:</tspan><tspan class="cc"> ......</tspan><tspan class="value" x="832">apurva-saraiya</tspan>
-<tspan x="684" y="424" class="key">X</tspan><tspan>:</tspan><tspan class="cc"> .............</tspan><tspan class="value" x="832">a____a07</tspan>
-<tspan x="684" y="442" class="key">Site</tspan><tspan>:</tspan><tspan class="cc"> ..........</tspan><tspan class="value" x="832">apurvasaraiya.github.io</tspan>
+<tspan x="684" y="370">- Contact</tspan>
+<tspan class="key" x="684" y="388">GitHub</tspan><tspan y="388">:</tspan><tspan class="cc" x="760.0" y="388">........</tspan><tspan class="value" x="860" y="388">apurvasaraiya</tspan>
+<tspan class="key" x="684" y="406">LinkedIn</tspan><tspan y="406">:</tspan><tspan class="cc" x="780.0" y="406">......</tspan><tspan class="value" x="860" y="406">apurva-saraiya</tspan>
+<tspan class="key" x="684" y="424">X</tspan><tspan y="424">:</tspan><tspan class="cc" x="710.0" y="424">.............</tspan><tspan class="value" x="860" y="424">a____a07</tspan>
+<tspan class="key" x="684" y="442">Site</tspan><tspan y="442">:</tspan><tspan class="cc" x="740.0" y="442">..........</tspan><tspan class="value" x="860" y="442">apurvasaraiya.github.io</tspan>
 <tspan x="684" y="460"> </tspan>
-<tspan x="684" y="478">- GitHub Stats</tspan><tspan class="cc">  ──────────────────────────</tspan>
-<tspan x="684" y="496"><tspan class="key">Repos</tspan><tspan>:</tspan><tspan class="cc"> .... </tspan><tspan class="value">6</tspan><tspan>    </tspan><tspan class="key">Stars</tspan><tspan>:</tspan><tspan class="cc"> .... </tspan><tspan class="value">2</tspan></tspan>
-<tspan x="684" y="514"><tspan class="key">Contributions</tspan><tspan>:</tspan><tspan class="cc"> .... </tspan><tspan class="value">241</tspan><tspan>    </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="cc"> .... </tspan><tspan class="value">3</tspan></tspan>
+<tspan x="684" y="478">- GitHub Stats</tspan>
+<tspan x="684" y="496"><tspan class="key">Repos</tspan><tspan>:</tspan><tspan class="value"> 6</tspan><tspan xml:space="preserve">     </tspan><tspan class="key">Stars</tspan><tspan>:</tspan><tspan class="value"> 2</tspan></tspan>
+<tspan x="684" y="514"><tspan class="key">Contributions</tspan><tspan>:</tspan><tspan class="value"> 241</tspan><tspan xml:space="preserve">     </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="value"> 3</tspan></tspan>
 </text>
 </svg>
